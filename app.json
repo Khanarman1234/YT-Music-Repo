@@ -13,37 +13,37 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "26082218",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "ac0fb55d391ea7b98ceac2b72b1a9d59",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6675977689:AAHfygfHMDYsMhdH-RjWi66R8-fqqtf9KnU",
         "required": true
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "6256455516",
+        "value": "6753033991",
         "required": true
       },
       "SESSION_NAME": {
         "description": "A pyrogram v2 string session from @StringFatherBot",
-        "value": "",
+        "value": "BQGN-6oAs-d4nGJw0LCu2t2jODV7-gNbXZX8PQdOtL4pDd2881pVqKk_0W6xneHko_965ct5RSoKhUBOY_jMt_jRDkgBTSGtidVnSbc1NkPuxRN_U2KuSZqN_Zj-gVQzPN4BQixmLpv2rp0t61pgIpMgafgi_dQaU-hLSd_mhE7vJuDN7m2Eb6jXdh6S5nlCMXtkTZC3N5NRqhh-vDK73-2ubeuanOdZWvJ1no1xjyVSmrF8e5aBJf3VXf7BZZ8TYPLM7g7lJwWbGVerRFa4D1wKLd8kAqAAHvWCAbYQJkOykhyh8LUOyFNI6BhTn_Qcx1tlHU5tZtWJsYjo9qrR5AegSgH0KAAAAAGDG0hoAA",
         "required": true
       },
       "SUDO_USERS": {
         "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "6753033991",
         "required": true
       },
       "BOT_USERNAME": {
         "description": "ur bot username",
-        "value": "KAALXMUSIC34bot",
+        "value": "HTY_music_bot",
         "required": true
       }
     },
