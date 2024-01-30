@@ -1,5 +1,5 @@
-async def CHAT_TITLE(Royalboyamit):
-    Royalboyamit = Royalboyamit
+async def CHAT_TITLE(hyt):
+    hyt = hyt
     font1 = list("𝔄𝔅ℭ𝔇𝔈𝔉𝔊ℌℑ𝔍𝔎𝔏𝔐𝔑𝔒𝔓𝔔ℜ𝔖𝔗𝔘𝔙𝔚𝔛𝔜ℨ")
     font2 = list("𝕬𝕭𝕮𝕯𝕰𝕱𝕲𝕳𝕴𝕵𝕶𝕷𝕸𝕹𝕺𝕻𝕼𝕽𝕾𝕿𝖀𝖁𝖂𝖃𝖄𝖅")
     font3 = list("𝓐𝓑𝓒𝓓𝓔𝓕𝓖𝓗𝓘𝓙𝓚𝓛𝓜𝓝𝓞𝓟𝓠𝓡𝓢𝓣𝓤𝓥𝓦𝓧𝓨𝓩")
@@ -26,27 +26,27 @@ async def CHAT_TITLE(Royalboyamit):
     normalL = list("abcdefghijklmnopqrstuvwxyz")
     cout = 0
     for XCB in font1:
-        Royalboyamit = Royalboyamit.replace(font1[cout], normal[cout])
-        Royalboyamit = Royalboyamit.replace(font2[cout], normal[cout])
-        Royalboyamit = Royalboyamit.replace(font3[cout], normal[cout])
-        Royalboyamit = Royalboyamit.replace(font4[cout], normal[cout])
-        Royalboyamit = Royalboyamit.replace(font5[cout], normal[cout])
-        Royalboyamit = Royalboyamit.replace(font6[cout], normal[cout])
-        Royalboyamit = Royalboyamit.replace(font26[cout], normal[cout])
-        Royalboyamit = Royalboyamit.replace(font27[cout], normal[cout])
-        Royalboyamit = Royalboyamit.replace(font28[cout], normal[cout])
-        Royalboyamit = Royalboyamit.replace(font29[cout], normal[cout])
-        Royalboyamit = Royalboyamit.replace(font30[cout], normal[cout])
-        Royalboyamit = Royalboyamit.replace(font1L[cout], normalL[cout])
-        Royalboyamit = Royalboyamit.replace(font2L[cout], normalL[cout])
-        Royalboyamit = Royalboyamit.replace(font3L[cout], normalL[cout])
-        Royalboyamit = Royalboyamit.replace(font4L[cout], normalL[cout])
-        Royalboyamit = Royalboyamit.replace(font5L[cout], normalL[cout])
-        Royalboyamit = Royalboyamit.replace(font6L[cout], normalL[cout])
-        Royalboyamit = Royalboyamit.replace(font27L[cout], normalL[cout])
-        Royalboyamit = Royalboyamit.replace(font28L[cout], normalL[cout])
-        Royalboyamit = Royalboyamit.replace(font29L[cout], normalL[cout])
-        Royalboyamit = Royalboyamit.replace(font30L[cout], normalL[cout])
-        Royalboyamit = Royalboyamit.replace(font31L[cout], normalL[cout])
+        hyt = hyt.replace(font1[cout], normal[cout])
+        hyt = hyt.replace(font2[cout], normal[cout])
+        hyt = hyt.replace(font3[cout], normal[cout])
+        hyt = hyt.replace(font4[cout], normal[cout])
+        hyt = hyt.replace(font5[cout], normal[cout])
+        hyt = hyt.replace(font6[cout], normal[cout])
+        hyt = hyt.replace(font26[cout], normal[cout])
+        hyt = hyt.replace(font27[cout], normal[cout])
+        hyt = hyt.replace(font28[cout], normal[cout])
+        hyt = hyt.replace(font29[cout], normal[cout])
+        hyt = hyt.replace(font30[cout], normal[cout])
+        hyt = hyt.replace(font1L[cout], normalL[cout])
+        hyt = hyt.replace(font2L[cout], normalL[cout])
+        hyt = hyt.replace(font3L[cout], normalL[cout])
+        hyt = hyt.replace(font4L[cout], normalL[cout])
+        hyt = hyt.replace(font5L[cout], normalL[cout])
+        hyt = hyt.replace(font6L[cout], normalL[cout])
+        hyt = hyt.replace(font27L[cout], normalL[cout])
+        hyt = hyt.replace(font28L[cout], normalL[cout])
+        hyt = hyt.replace(font29L[cout], normalL[cout])
+        hyt = hyt.replace(font30L[cout], normalL[cout])
+        hyt = hyt.replace(font31L[cout], normalL[cout])
         cout += 1
-    return Royalboyamit
+    return hyt
